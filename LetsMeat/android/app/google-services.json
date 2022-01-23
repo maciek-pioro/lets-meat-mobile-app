@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790166575655",
+    "firebase_url": "https://let-s-meat-9c08a.firebaseio.com",
+    "project_id": "let-s-meat-9c08a",
+    "storage_bucket": "let-s-meat-9c08a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790166575655:android:3bc5467587b393ad5c8c02",
+        "android_client_info": {
+          "package_name": "pl.letsmeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790166575655-t9stcrdkslkvpn8rpjvoeo35sig6k58i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.letsmeat",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "790166575655-222h23mpv6h7n7jhjkac6gj220e5kevt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoHo63YhDfMqLGfOgb-ysJk7cHPzseNUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790166575655-222h23mpv6h7n7jhjkac6gj220e5kevt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
